@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "輪郭",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-09T13:00:10.370638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輪郭 (Rinkaku)",
+      "artist": "Dir En Grey",
+      "has_synced": false,
+      "path": "select/01_輪郭_(Rinkaku)_Dir_En_Grey.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rinkaku; 輪郭",
+      "artist": "DIR EN GREY",
+      "has_synced": false,
+      "path": "select/02_Rinkaku;_輪郭_DIR_EN_GREY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輪郭",
+      "artist": "DIR EN GREY",
+      "has_synced": false,
+      "path": "select/03_輪郭_DIR_EN_GREY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輪郭",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/04_輪郭_ヒトリエ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "輪郭 (RINKAKU)",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/05_輪郭_(RINKAKU)_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rinkaku; 輪郭",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/06_Rinkaku;_輪郭_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "輪郭",
+      "artist": "Hitorie",
+      "has_synced": false,
+      "path": "select/07_輪郭_Hitorie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "輪郭",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/08_輪郭_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "輪郭 Eternal Slumber Mix (Remixed by Akira Yamaoka)",
+      "artist": "DIR EN GREY",
+      "has_synced": false,
+      "path": "select/09_輪郭_Eternal_Slumber_Mix_(Remixed_by_Akira_Yamaoka)_DIR_EN_GREY.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "輪郭 (2016.4.29 LIVE at STUDIO COAST)",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/10_輪郭_(2016.4.29_LIVE_at_STUDIO_COAST)_ヒトリエ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "輪郭 (Rinkaku ; Contour)",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/11_輪郭_(Rinkaku_;_Contour)_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "輪郭 (Rinkaku ; Contour) [Eternal Slumber Mix]",
+      "artist": "DIR EN GREY",
+      "has_synced": false,
+      "path": "select/12_輪郭_(Rinkaku_;_Contour)_[Eternal_Slumber_Mix]_DIR_EN_GREY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輪郭",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_輪郭_キタニタツヤ.txt"
+    }
+  ]
+}
